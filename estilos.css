@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+
+.contenedorarriba{
+   background-image: url(imagenindex.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+
+.arriba{
+    padding: 9%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.tituloarriba{
+    font-size: 40px;
+}
+
+.textoarriba{
+    padding: 2% 0px;
+    width: 90%;
+    font-size: 24px;
+}
+
+.botonarriba{
+    padding: 1.3% 3%;
+    border: 1px solid rgb(121, 121, 121);
+    background-color: black;
+    color: white;
+}
+
+/* seccion2 */
+.cont2{
+    text-align:center;
+    background-color: #eaeaea;
+}
+
+.cont2titu{
+    font-size: 200%;
+    padding-top: 3%;
+}
+
+.contsepa{
+    display: flex;
+}
+
+.textizq{
+    padding: 2em 1.5em;
+}
+
+.consep{
+    margin-bottom: 25px;
+}
+
+.textdere{
+    padding: 2em 1.5em;
+}
+
+/* seccion3 */
+.conts1{
+    background-color: rgb(76, 75, 75);
+}
+
+.ejemplocont1{
+    display: flex;
+}
+
+.ejemplocards{
+    margin :2% 1%;
+    background-color: white;
+}
+
+.infoconts{
+    text-align: center;
+    margin: 15%;
+}
+
+.cardsfotos{
+    width: 100%;
+}
+
+.infotitcard{
+    padding: 15%;
+    align-items: center;
+}
+
+/*seccion4*/
+.cont4{
+    margin: 5%;
+    text-align: center;
+}
+
+.titcont4{
+    font-size: 150%;
+    margin-top: 25px;
+}
+
+.textc4{
+    padding-top:5%;
+    width: 90%;
+}
+
+/*seccion5*/
+.cont5{
+    text-align: center;
+    display: flex;
+    color: white;
+}
+
+.contactus{
+    background-color: #2690d4;
+    padding: 5%;
+}
+
+.tit5{
+    padding: 3%;
+}
+
+.textc5{
+    margin-top: 30px;
+}
+
+.correo{
+    margin-top: 50px;
+}
+
+.cont6{
+    background-color: rgb(88, 86, 86);
+    padding: 5%;
+}
+
+/*footer*/
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: space-around;
+    padding: 4%;
+}
+
+.footer2{
+    display: flex;
+}
+
+.nombreazul{
+    color: cornflowerblue;
+    justify-content: space-around;
+    margin-left: 9px;
+}
